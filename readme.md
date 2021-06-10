@@ -1,3 +1,12 @@
+HW2 -----
+The screenshot of the running project should be visible below. 
+
+![Screenshot for assignment 2](/Hw2screenshot.png)
+
+If the image is not displayed in this markdown document it is also accessible from the main project directory.
+
+HW1 -----
+
 Working Project:
 https://wyatteynon.github.io/Front-End-IS-218-HW1/
 
